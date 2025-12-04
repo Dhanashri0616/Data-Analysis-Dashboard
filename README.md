@@ -24,4 +24,4 @@ Built using *Power BI*, the dashboard connects multiple datasets to deliver an i
 ---
 
 ## 📷 Dashboard Preview  
-<img src="" width="80%">
+<img src="https://github.com/Dhanashri0616/Data-Analysis-Dashboard/blob/main/Hospital%20dashbroad.jpg" width="80%">
